@@ -1,0 +1,407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"na",
+				"nav-link"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"f",
+				"flex-drops"
+			],
+			[
+				"ne",
+				"newtodo"
+			],
+			[
+				"todo",
+				"todos"
+			],
+			[
+				"pu",
+				"publication"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"p",
+				"publication"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"for",
+				"form-check"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"ro",
+				"rotateY()\ttransform"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"backgrou",
+				"background\tproperty"
+			],
+			[
+				"tran",
+				"transform-style\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"form-check",
+				"form-check-label"
+			],
+			[
+				"form",
+				"form-check"
+			],
+			[
+				"DI",
+				"DIV\tTag"
+			],
+			[
+				"nav",
+				"navbar-right"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"query",
+				"queryfir"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect"
+			],
+			[
+				"OPT",
+				"OPTION\tTag"
+			],
+			[
+				"OP",
+				"OPTION\tTag"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"gri",
+				"grid-column-gap\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Desktop/gaurav sir IT MINISTRY/umeet/index.html",
+		"/C/Users/user/Desktop/gaurav sir IT MINISTRY/umeet/indexs.html",
+		"/C/Users/user/Documents/GitHub/startbootstrap-sb-admin/dist/login.html",
+		"/C/Users/user/Desktop/gaurav sir IT MINISTRY/umeet/css/style.css",
+		"/C/Users/user/Documents/GitHub/startbootstrap-sb-admin/index.html",
+		"/C/Users/user/Documents/GitHub/startbootstrap-sb-admin/dist/index.html",
+		"/C/Users/user/Desktop/gaurav sir IT MINISTRY/styles.css",
+		"/C/Users/user/Desktop/gaurav sir IT MINISTRY/index.htm",
+		"/C/Users/user/Desktop/ada/list.html",
+		"/C/Users/user/Desktop/ada/list.js",
+		"/C/Users/user/Desktop/chachu/index.htm",
+		"/C/xampp/htdocs/eshop/functions/functions.php",
+		"/C/xampp/htdocs/eshop/admin_area/view_customers.php",
+		"/C/xampp/htdocs/eshop/customer_login.php",
+		"/C/xampp/htdocs/wordpress-5.3/wordpress/wp-config.php",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/user/AppData/Roaming/jupyter/runtime/nbserver-19268-open.html",
+		"/C/Users/user/AppData/Roaming/jupyter/runtime/nbserver-16668-open.html",
+		"/C/Users/user/AppData/Roaming/jupyter/runtime/nbserver-11028-open.html",
+		"/C/xampp/htdocs/eshop/admin_area/includes/db.php",
+		"/C/xampp/htdocs/eshop/customer/functions/functions.php",
+		"/C/xampp/htdocs/eshop/customer/includes/db.php",
+		"/C/xampp/htdocs/eshop/includes/db.php",
+		"/C/xampp/htdocs/eshop/customer/my_account.php",
+		"/C/xampp/htdocs/eshop/admin_area/insert_product.php",
+		"/C/xampp/htdocs/eshop/admin_area/insert_brand.php",
+		"/C/xampp/htdocs/eshop/admin_area/edit_brand.php",
+		"/C/xampp/htdocs/eshop/admin_area/login.php",
+		"/C/xampp/htdocs/eshop/customer_register.php",
+		"/C/Users/user/AppData/Roaming/jupyter/runtime/nbserver-5888-open.html",
+		"/C/Users/user/AppData/Roaming/jupyter/runtime/nbserver-19484-open.html",
+		"/C/Users/user/AppData/Roaming/jupyter/runtime/nbserver-19952-open.html",
+		"/C/xampp/htdocs/eshop/admin_area/insert_cat.php",
+		"/C/xampp/htdocs/eshop/index.php",
+		"/C/xampp/htdocs/eshop/all_products.php",
+		"/C/xampp/htdocs/ecommerce/form.html",
+		"/C/xampp/htdocs/ecommerce/form_html.php",
+		"/C/xampp/htdocs/mobileimg/browsing.php",
+		"/C/xampp/htdocs/admin/form.html",
+		"/C/xampp/htdocs/ecommerce/styles/style.css",
+		"/D/ebiz/admin.htm",
+		"/C/xampp/htdocs/ecom/dailyShop/404.html",
+		"/C/xampp/htdocs/ecommerce/index.php",
+		"/C/xampp/htdocs/login and registration/registration.php",
+		"/C/xampp/htdocs/login and registration/login.php",
+		"/C/xampp/htdocs/login.php",
+		"/D/ebiz/ProductList.jsp",
+		"/C/xampp/htdocs/ecommerce/cart card/style.css",
+		"/D/ebiz/admins.jsp",
+		"/C/xampp/htdocs/ecommerce/cart card/index.htm",
+		"/C/Users/user/Desktop/folder/hack/bootstrap/loading page.htm",
+		"/C/xampp/htdocs/ecommerce/admin_area/includes/db.php",
+		"/C/xampp/htdocs/ecommerce/register.php",
+		"/C/xampp/htdocs/ecommerce/functions/functions.php",
+		"/C/xampp/htdocs/mobileimg/cart.php",
+		"/C/xampp/htdocs/connection/connection.php",
+		"/C/xampp/htdocs/cart.php",
+		"/C/xampp/htdocs/ecommerce/cart.php",
+		"/C/xampp/php/php.ini",
+		"/C/Users/user/Desktop/folder/hack/bootstrap/final.htm",
+		"/F/ecommerce/index.php",
+		"/C/Users/user/Desktop/folder/hack/hack.htm",
+		"/C/xampp/htdocs/practice/home.php",
+		"/C/xampp/htdocs/home.php",
+		"/C/xampp/htdocs/practice/login.php",
+		"/C/Users/user/Desktop/upskill/udemy.htm",
+		"/C/Users/user/Desktop/upskill/css.css",
+		"/C/Users/user/Desktop/upskill/html.htm",
+		"/C/Users/user/Desktop/upskill/engineering.htm",
+		"/C/Users/user/Desktop/upskill/medical.htm"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
